@@ -1,5 +1,7 @@
 # UGotFilm🎥
 ## 영화 추천 사이트
+
+### 웹페이지 시연영상
 [![video Label](http://img.youtube.com/vi/1J-S5kbfgYo/0.jpg)](https://youtu.be/1J-S5kbfgYo)
 
 ### 내용
@@ -13,8 +15,16 @@
 - 공지 게시판
 - 관리자 페이지
 
+### 담당
+- Frontend : 영화, 인물정보 저장(axios를 활용한 백엔드 서버와 통신기능)
+- Backend : 데이터 저장, 파이썬활용 큐레이션
+
 ### 사용기술
-- Frontend : HTML5, CSS3, Bootstrap, Javascript, jQuery, Ajax, React / vs code
-- Backend : JAVA, Spring boot, Python / spring4, flask
+- Frontend : HTML5, CSS3, Javascript, jQuery, Ajax, React, Bootstrap
+- Backend : JAVA, Spring boot, Python, flask
 - API : tmdbAPI
 - Database : Oracle, Mybatis
+
+### 사용툴
+- Frontend : vs code
+- Backend : spring4
