@@ -40,6 +40,15 @@
 - 4주(2023.02.08 ~ 2023.03.08)
 <br>
 
+## 프로젝트 진행과정
+<div align="center">
+<img src="https://user-images.githubusercontent.com/112916825/229915065-e47a532a-47d5-4a53-817b-56613f5a2e60.png">
+</div>
+
+- 여기에 구글 스프레드 시트링크,,,,,,,,???????? 그래도 괜찮은가.......?????????물어봐야겠다....ㅜㅠ......
+- 회의록을 첨부하고싶...
+<br>
+
 ## ERD
 ![image](https://user-images.githubusercontent.com/112916825/229819631-05540c94-f9f4-45ff-a072-c1522583aef0.png)
 <br>
@@ -110,8 +119,8 @@
 <br>
 
 ## 사용기술
-- Frontend : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
-- Backend : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
+- Frontend : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Ajax-000000?style=flat&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
+- Backend : <img src="https://img.shields.io/badge/Java-007396?style=flat&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
 - Database : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
 
 - API : tmdbAPI
@@ -126,7 +135,3 @@
 
 [![video Label](http://img.youtube.com/vi/1J-S5kbfgYo/0.jpg)](https://youtu.be/1J-S5kbfgYo)
 
-## 프로젝트 진행과정
-- 여기에 구글 스프레드 시트,,,,,,,,???????? 그래도 괜찮은가.......?????????물어봐야겠다....ㅜㅠ......아니면 어떻게 진행과정을 표현할것인가!!!! 표 활용???흠....
-- 회의록
-- 진행사항(일정)
