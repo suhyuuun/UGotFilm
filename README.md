@@ -44,6 +44,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/112916825/229915065-e47a532a-47d5-4a53-817b-56613f5a2e60.png">
 </div>
+
 - 회의록 : https://docs.google.com/spreadsheets/d/1e-ywPfHQMgKTH1Z-rzvURtB4rYeWZLHjFv1vyD8qhzg/edit?usp=sharing
 
 <br>
